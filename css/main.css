@@ -1,3 +1,6 @@
+span.line {
+  display: inline-block;
+}
 body {
     margin: 60px auto;
     width: 70%;
@@ -28,7 +31,7 @@ p {
     line-height: 1.4em;
     color: #333;
 }
-input[type=pl] {
+input[type='pl'] {
     font-size: 1.3em;
     line-height: 1.4em;
     color: #333;
