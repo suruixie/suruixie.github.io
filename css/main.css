@@ -35,7 +35,10 @@ input[type="pl"] {
   font-size: 1.3em;
   line-height: 1.2em;
   color: #333;
-  padding-bottom:3.5em
+}
+pl.nextpar {
+  margin-top: 0em;
+  margin-bottom: 2em;
 }
 }
 footer {
