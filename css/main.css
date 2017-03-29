@@ -29,7 +29,8 @@ p {
     color: #333;
 }
 input[type='pl'] {
-    font-size: 1.2em; /* 14px/16=0.875em */
+    font-size: 1.3em; /* 14px/16=0.875em */
+    line-height: 1.2em;
     color: #333;
 }
 }
