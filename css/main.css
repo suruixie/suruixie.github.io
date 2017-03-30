@@ -64,6 +64,7 @@ p {
 
 .sideText {
     margin-left: 300px;
+    margin-bottom: 0.5em;
     text-align: left;
 }
 .sideText p {
