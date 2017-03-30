@@ -55,12 +55,6 @@ ul.posts li {
     list-style: none;
 }
 
-h3 {
-    color: black;
-    font: helvetica;
-    float: left;
-}
-
 div.image-div img {
     float: left;
 }
@@ -72,12 +66,12 @@ p {
 }
 
 .image-div {
-    width: 700px;
-    height: 300px;
+    width: 30%;
+    height: auto;
 }
 
 .sideText {
-    margin-left: 180px;
+    margin-left: 280px;
     text-align: left;
 }
 .sideText p {
