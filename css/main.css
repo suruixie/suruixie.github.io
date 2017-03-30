@@ -66,12 +66,12 @@ p {
 }
 
 .image-div {
-    width: 30%;
-    height: auto;
+    width: 700px;
+    height: 300px;
 }
 
 .sideText {
-    margin-left: 280px;
+    margin-left: 220px;
     text-align: left;
 }
 .sideText p {
