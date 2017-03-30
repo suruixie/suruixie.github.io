@@ -24,7 +24,7 @@ li {
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 div.image-div img {
-    float: left;
+    float: right;
 }
 
 p {
@@ -39,8 +39,8 @@ p {
 }
 
 .sideText {
-    margin-left: 300px;
-    margin-bottom: 0.5em;
+    margin-left: 0px;
+    margin-bottom: 0em;
     text-align: left;
 }
 .sideText p {
