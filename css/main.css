@@ -71,9 +71,11 @@ p {
 }
 
 .sideText {
-    margin-left: 220px;
+    margin-left: 280px;
     text-align: left;
 }
 .sideText p {
+    margin-top: 1.0em;
+    font-size: 1.2em;
     text-align: left;
 }
