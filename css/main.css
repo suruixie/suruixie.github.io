@@ -31,15 +31,7 @@ p {
     line-height: 1.4em;
     color: #333;
 }
-input[type="pl"] {
-  font-size: 1.3em;
-  line-height: 1.2em;
-  color: #333;
-}
-pl.nextpar {
-  margin-top: 0em;
-  margin-bottom: 2em;
-}
+
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -71,11 +63,11 @@ p {
 }
 
 .sideText {
-    margin-left: 280px;
+    margin-left: 300px;
     text-align: left;
 }
 .sideText p {
-    margin-top: 1.0em;
-    font-size: 1.2em;
+    margin-top: 0.5em;
+    font-size: 1.1em;
     text-align: left;
 }
