@@ -54,3 +54,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+img {
+    max-width: 30%;
+    height: auto;
+}
