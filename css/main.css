@@ -55,6 +55,12 @@ ul.posts li {
     list-style: none;
 }
 
+h3 {
+    color: black;
+    font: helvetica;
+    float: left;
+}
+
 div.image-div img {
     float: left;
 }
