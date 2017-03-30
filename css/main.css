@@ -36,6 +36,7 @@ p {
 .image-div {
     width: 700px;
     height: 300px;
+    margin-right: 100px;
 }
 
 .sideText {
