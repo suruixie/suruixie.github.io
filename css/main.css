@@ -8,7 +8,7 @@ a:hover { text-decoration: underline; }
 
 a1 { text-decoration: none; color: black; }
 
-p, ul { font-size: 1.2em; line-height: 1.2em; color: #333; }
+p, ul { font-size: 1.3em; line-height: 1.2em; color: #333; }
 
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
@@ -36,8 +36,8 @@ p {
 }
 
 .publist {
-    text-indent: 0px;
-    margin-left: 25px;
+    text-indent: -25px;
+    margin-left: 50px;
     margin: 0.3em;
 }
 
