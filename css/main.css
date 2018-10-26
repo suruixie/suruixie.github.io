@@ -36,8 +36,8 @@ p {
 }
 
 .publist {
-    text-indent: -25px;
-    margin-left: 25px;
+    text-indent: -25px  each-line;
+    margin-left: 25px each-line;
 }
 
 .image-div {
