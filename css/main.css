@@ -33,8 +33,11 @@ p {
     color: black;
     font: Helvetica;
     float: left;
-    text-indent: -10px;
-    margin-left: 10px;
+}
+
+.publist {
+    text-indent: -25px;
+    margin-left: 25px;
 }
 
 .image-div {
