@@ -37,7 +37,7 @@ p {
 
 .publist {
     text-indent: -25px;
-    margin-left: 50px;
+    padding-left: 50px;
     margin: 0.3em;
 }
 
