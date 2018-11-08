@@ -80,8 +80,8 @@ p {
 .slider:hover {
     opacity: 1; /* Fully shown on mouse-over */
 }
-
-.slider.slider-horizontal{
-  width:300px; /* sample value - set it as you like*/
+.ui-slider-horizontal {
+    height: 8px;
+    width: 300px;
 }
 
