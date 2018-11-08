@@ -1,5 +1,5 @@
 function updateSlider(slideAmount) {
-  document.getElementById('output').innerHTML = slideAmount;
+  //document.getElementById('output').innerHTML = slideAmount;
   //get the element
   var display = document.getElementById("chosen");
   //show the amount
@@ -12,5 +12,5 @@ function updateSlider(slideAmount) {
   //pic.style.height=slideAmount+"px";
 
 }
-document.getElementById('slider').value = 0;
+//document.getElementById('slider').value = 0;
 
