@@ -1,3 +1,4 @@
-function myFunction() {
-   document.getElementById("demo").innerHTML = "Paragraph changed.";
+function sliderChange(val) {
+    document.getElementById('output').innerHTML = val;
 }
+document.getElementById('slider').value = 0;
