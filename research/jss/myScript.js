@@ -11,4 +11,4 @@ display.innerHTML=slideAmount;
 //get the element
 var pic = document.getElementById("pic");
 //set the dimensions
-pic.style.margin-left=slideAmount;
+pic.style.height=slideAmount+"%";
