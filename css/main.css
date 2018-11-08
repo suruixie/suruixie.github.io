@@ -75,15 +75,7 @@ margin-left:40px;
 
 #slider {
 margin-left:0px;
-}
-
-/*this is only for webkit, not opera*/
-input[type='range'] {  
--webkit-appearance: none;
-padding-left:2px; padding-right:2px;
--webkit-border-radius: 5px;  
-background-image: -webkit-linear-gradient(top, #000000, #333333, #000000);
-}  
+} 
 
 #picHolder {
 width:250px;
