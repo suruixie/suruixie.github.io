@@ -73,10 +73,6 @@ font-size:large;
 margin-left:40px;
 }
 
-#slider {
-margin-left:10px;
-}
-
 /*this is only for webkit, not opera*/
 input[type='range'] {  
 -webkit-appearance: none;
