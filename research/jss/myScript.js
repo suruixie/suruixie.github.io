@@ -1,4 +1,5 @@
-function sliderChange(val) {
-    document.getElementById('output').innerHTML = val;
+function sliderChange(slideAmount) {
+    document.getElementById('output').innerHTML = slideAmount;
 }
 document.getElementById('slider').value = 0;
+
