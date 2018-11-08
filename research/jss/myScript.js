@@ -6,7 +6,7 @@ display.innerHTML=slideAmount;
 //get the element
 var pic = document.getElementById("pic");
 //set the dimensions
-pic.style.margin-left=slideAmount+"px";
-pic.style.height=slideAmount+"px";
+pic.style.marginLeft=slideAmount+"px";
+//pic.style.height=slideAmount+"px";
 
 }
