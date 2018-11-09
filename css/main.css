@@ -81,6 +81,8 @@ padding:0px;
 #slide {
   width: 300px;
   margin:0px;
+  margin-top:0px;
+  padding:0px;
 } 
 
 /*this is only for webkit, not opera*/
