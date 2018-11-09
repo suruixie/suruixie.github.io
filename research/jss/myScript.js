@@ -5,8 +5,8 @@ function updateSlider(slideAmount) {
   //show the amount
   display.innerHTML=slideAmount;
   //get the element
-  var pic = document.getElementById("pic");
-  var picL = document.getElementById("picL");
+  var pic = document.getElementById("fslip_img");
+  var picL = document.getElementById("fslip_imgL");
   //set the dimensions
   var tmp = slideAmount;
   var tmp1 = tmp * 0.21858;
