@@ -8,9 +8,9 @@ function updateSlider(slideAmount) {
   var pic = document.getElementById("pic");
   //set the dimensions
   var tmp = slideAmount;
-  var tmp1 = tmp * 0.1639;
+  var tmp1 = tmp * 0.2732;
   pic.style.marginLeft=tmp1+"px";
-  //calc( ( slideAmount + "px") * 0.1639 );
+  //calc( ( slideAmount + "px") * 0.2732 );
   //pic.style.marginLeft=slideAmount+"px";
   //pic.style.height=slideAmount+"px";
 
