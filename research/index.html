@@ -41,10 +41,12 @@ title: Surui's research
 	
 
 	<script async src="./jss/myScript.js"></script>
-	<p style="line-height:0;">
-	<img src="../images/research_alr_img1.jpg" width="300px" style="margin-top:12px; margin-left:-300px; margin-right:0px; margin-bottom:0px; padding:0px; border:0px;"/>
-	<br>
-	<img id="pic" src="../images/research_alr_img2.jpg" width="300px"  style="margin-top:0px; margin-left:-300px; margin-right:0px; margin-bottom:0px; padding:0px; border:0px;"/>
+	<div id="picHolder">
+		<p style="line-height:0;">
+			<img src="../images/research_alr_img1.jpg" width="300px" alt="UpSide"/>
+			<br>
+			<img id="pic" src="../images/research_alr_img2.jpg" width="300px" alt="DownSide"/>
+	</div>
 	<div id="slider"> <input id="slide" type="range" min="0" max="1830" step="1" value="0" oninput="updateSlider(this.value)" />
 	</div>
 	<div id="chosen">0</div>
