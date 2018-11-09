@@ -73,10 +73,8 @@ padding:0px;
 }
 
 #slider {
-  margin:0px;
   width: 300px;
-  margin-top: 0px;
-  margin-left: 0px;
+  margin:0px;
 } 
 
 /*this is only for webkit, not opera*/
