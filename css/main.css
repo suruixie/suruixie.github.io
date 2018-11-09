@@ -68,7 +68,8 @@ text-align:center;
 color:#000000;
 font-weight:bold;
 font-size:large;
-margin-left:0px;
+margin:0px;
+padding:0px;
 }
 
 #slider {
