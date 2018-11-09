@@ -1,8 +1,7 @@
 function updateSlider(slideAmount) {
   //document.getElementById('output').innerHTML = slideAmount;
   //get the element
-  //var display = document.getElementById("chosen");
-  var display = document.getElementById("output");
+  var display = document.getElementById("chosen");
   //show the amount
   display.innerHTML=slideAmount;
   //get the element
