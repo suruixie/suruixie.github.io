@@ -7,7 +7,7 @@ function updateSlider(slideAmount) {
   //get the element
   var pic = document.getElementById("pic");
   //set the dimensions
-  pic.style.marginLeft = slideAmount / 6.1;
+  pic.style.marginLeft = slideAmount+"px";
   //calc( ( slideAmount + "px") * 0.1639 );
   //pic.style.marginLeft=slideAmount+"px";
   //pic.style.height=slideAmount+"px";
