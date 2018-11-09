@@ -76,6 +76,11 @@ padding:0px;
   margin:0px;
 } 
 
+#slide {
+  width: 300px;
+  margin:0px;
+} 
+
 /*this is only for webkit, not opera*/
 input[type='range'] {  
 -webkit-appearance: none;
