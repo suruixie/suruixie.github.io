@@ -74,12 +74,12 @@ padding:0px;
 }
 
 #slider {
-  width: 300px;
+  width: 500px;
   margin:0px;
 } 
 
 #slide {
-  width: 300px;
+  width: 500px;
   margin:0px;
   margin-top:0px;
   padding:0px;
@@ -94,7 +94,7 @@ background-image: -webkit-linear-gradient(top, #000000, #333333, #000000);
 }
 
 #picHolder {
-width:300px;
+width:500px;
 margin:0px;
 padding:0px;
 }
