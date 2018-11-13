@@ -82,9 +82,9 @@ margin:0px;
 
 #sliderTEXTUnit {
 float:left;
-width:80px;
-padding-left:10px;
-text-align:left;
+width:60px;
+padding-left:0px;
+text-align:right;
 font-size:large;
 margin:0px;
 } 
