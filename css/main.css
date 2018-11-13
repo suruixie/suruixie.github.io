@@ -73,7 +73,7 @@ padding:0px;
 
 #sliderTEXT {
 float:left;
-width:160px;
+width:200px;
 padding:0px;
 text-align:left;
 font-size:large;
@@ -82,9 +82,9 @@ margin:0px;
 
 #sliderTEXTUnit {
 float:left;
-width:50px;
-padding:0px;
-text-align:right;
+width:80px;
+padding-left:5px;
+text-align:left;
 font-size:large;
 margin:0px;
 } 
